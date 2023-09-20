@@ -1,0 +1,31 @@
+'~$tables.xlsx'
+'100 params.txt'
+ 100_tests_base.txt
+ 100_tests_naive_prop.txt
+ 2layeracc.png
+ 2layerfit.png
+'4 layers.txt'
+'80 params.txt'
+ acc_4layers.png
+ brown_small/
+ CorefUD-1.1-public.zip
+ corpussize/
+ Deprecated/
+ Figures/
+ fit_4layer.png
+ gum/
+ CYK_Parser/
+ java_stuff/
+'New folder'/
+ Pop40_300gen_totalparsed.png
+ popsize/
+ poptests
+ rhs_experiments/
+ RyanPartlanThesis.pdf
+ tables.xlsx
+ tinksub2.txt
+'tinksub3 second try maybe not broke.txt'
+ Unit_Tests/
+ venv/
+ venv2/
+ Writing/
